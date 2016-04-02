@@ -62,3 +62,9 @@ a {
   padding-left:20px;
   width:200px;
 }
+
+body iframe {
+  margin-left: 20px;
+  width:200px;
+  height:150px;
+}
